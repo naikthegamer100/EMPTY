@@ -1,1 +1,0 @@
-print (" \n I love bob. \n") + ("he is my best frind \n") *1000
